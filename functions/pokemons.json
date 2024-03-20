@@ -1,0 +1,172 @@
+{
+  "Pikachu": {
+    "forca": 50,
+    "ataque": 60,
+    "defesa": 40
+  },
+  "Charmander": {
+    "forca": 45,
+    "ataque": 65,
+    "defesa": 35
+  },
+  "Squirtle": {
+    "forca": 55,
+    "ataque": 50,
+    "defesa": 55
+  },
+  "Bulbasaur": {
+    "forca": 60,
+    "ataque": 45,
+    "defesa": 40
+  },
+  "Jigglypuff": {
+    "forca": 30,
+    "ataque": 20,
+    "defesa": 15
+  },
+  "Geodude": {
+    "forca": 40,
+    "ataque": 80,
+    "defesa": 100
+  },
+  "Snorlax": {
+    "forca": 160,
+    "ataque": 110,
+    "defesa": 65
+  },
+  "Mewtwo": {
+    "forca": 106,
+    "ataque": 110,
+    "defesa": 90
+  },
+  "Spearow": {
+    "forca": 40,
+    "ataque": 60,
+    "defesa": 30
+  },
+  "Caterpie": {
+    "forca": 30,
+    "ataque": 20,
+    "defesa": 35
+  },
+  "Rattata": {
+    "forca": 30,
+    "ataque": 56,
+    "defesa": 35
+  },
+  "Ekans": {
+    "forca": 35,
+    "ataque": 60,
+    "defesa": 44
+  },
+  "Sandshrew": {
+    "forca": 50,
+    "ataque": 75,
+    "defesa": 85
+  },
+  "Nidoran♀": {
+    "forca": 55,
+    "ataque": 47,
+    "defesa": 52
+  },
+  "Nidorina": {
+    "forca": 70,
+    "ataque": 62,
+    "defesa": 67
+  },
+  "Clefairy": {
+    "forca": 70,
+    "ataque": 45,
+    "defesa": 48
+  },
+  "Vulpix": {
+    "forca": 38,
+    "ataque": 41,
+    "defesa": 40
+  },
+  "Zubat": {
+    "forca": 40,
+    "ataque": 45,
+    "defesa": 35
+  },
+  "Oddish": {
+    "forca": 45,
+    "ataque": 50,
+    "defesa": 55
+  },
+  "Paras": {
+    "forca": 35,
+    "ataque": 70,
+    "defesa": 55
+  },
+  "Venonat": {
+    "forca": 60,
+    "ataque": 55,
+    "defesa": 50
+  },
+  "Diglett": {
+    "forca": 10,
+    "ataque": 55,
+    "defesa": 25
+  },
+  "Meowth": {
+    "forca": 40,
+    "ataque": 45,
+    "defesa": 35
+  },
+  "Psyduck": {
+    "forca": 50,
+    "ataque": 52,
+    "defesa": 48
+  },
+  "Growlithe": {
+    "forca": 55,
+    "ataque": 70,
+    "defesa": 45
+  },
+  "Poliwag": {
+    "forca": 40,
+    "ataque": 50,
+    "defesa": 40
+  },
+  "Abra": {
+    "forca": 25,
+    "ataque": 20,
+    "defesa": 15
+  },
+  "Machop": {
+    "forca": 70,
+    "ataque": 80,
+    "defesa": 50
+  },
+  "Tentacool": {
+    "forca": 40,
+    "ataque": 40,
+    "defesa": 35
+  },
+  "Geodude": {
+    "forca": 40,
+    "ataque": 80,
+    "defesa": 100
+  },
+  "Ponyta": {
+    "forca": 50,
+    "ataque": 85,
+    "defesa": 55
+  },
+  "Slowpoke": {
+    "forca": 90,
+    "ataque": 65,
+    "defesa": 65
+  },
+  "Magnemite": {
+    "forca": 25,
+    "ataque": 35,
+    "defesa": 70
+  },
+  "Farfetch'd": {
+    "forca": 52,
+    "ataque": 65,
+    "defesa": 55
+  }
+}

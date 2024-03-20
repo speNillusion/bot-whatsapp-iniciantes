@@ -1,0 +1,31 @@
+{
+  "name": "aki-api",
+  "version": "2.1.1",
+  "description": "An API for Akinator.  Supports up to 15 languages and has two English servers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node build/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgoralcz/aki-api.git"
+  },
+  "keywords": [
+    "aki",
+    "akinator",
+    "magic",
+    "aki promise",
+    "akinator promise"
+  ],
+  "author": "Joshua Goralczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgoralcz/aki-api/issues"
+  },
+  "homepage": "https://github.com/jgoralcz/aki-api#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
