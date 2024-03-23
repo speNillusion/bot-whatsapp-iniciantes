@@ -145,7 +145,7 @@ try {
           logger: P({ level: "silent" }),
           usePairingCode,
           mobile: false,
-          browser: ["FireFox (linux)"],
+          browser: ["Chrome (linux)"],
           auth: state,
           msgRetryCounterCache,
           defaultQueryTimeoutMs: undefined,
