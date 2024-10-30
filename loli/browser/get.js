@@ -5,7 +5,7 @@ const FormData = require("form-data");
 
 const {
 downloadContentFromMessage, proto, delay, getContentType
-} = require('@WhiskeySockets/baileys')
+} = require('@whiskeysockets/baileys')
 
 const Random = Math.random(10)
 
